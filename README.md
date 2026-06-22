@@ -1,6 +1,6 @@
 # FinOps Dashboard
 
-A multi-cloud (AWS + GCP) cost monitoring and idle-resource-detection tool. This project is built as a portfolio showcase for MNC interviews, demonstrating cloud cost optimization, systems architecture, FastAPI backend development, database management, and UI reporting.
+A GCP cost monitoring and idle-resource-detection tool. This project is built as a portfolio showcase for MNC interviews, demonstrating cloud cost optimization, systems architecture, FastAPI backend development, database management, and UI reporting.
 
 ## Key Features
 - **Multi-Cloud Data Aggregation**: Synthesizes and stores daily cost metrics for AWS and GCP resources.
